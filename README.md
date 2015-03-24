@@ -10,3 +10,5 @@ TODO: handle user args for suspend timeout bash script
 TODO: test
 
 TODO: document
+
+TODO: add "comment field" (to help sysadmins tidy up)
